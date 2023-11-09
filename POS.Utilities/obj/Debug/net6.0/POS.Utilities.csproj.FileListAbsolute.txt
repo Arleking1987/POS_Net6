@@ -1,0 +1,12 @@
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\bin\Debug\net6.0\POS.Utilities.deps.json
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\bin\Debug\net6.0\POS.Utilities.dll
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\bin\Debug\net6.0\POS.Utilities.pdb
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.AssemblyReference.cache
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfoInputs.cache
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.AssemblyInfo.cs
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.dll
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\obj\Debug\net6.0\refint\POS.Utilities.dll
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\obj\Debug\net6.0\POS.Utilities.pdb
+C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Utilities\obj\Debug\net6.0\ref\POS.Utilities.dll
