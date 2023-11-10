@@ -12,3 +12,17 @@ C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacio
 C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.pdb
 C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Domain\obj\Debug\net6.0\POS.Domain.genruntimeconfig.cache
 C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Domain\obj\Debug\net6.0\ref\POS.Domain.dll
+F:\Desarrollo\POS\POS_Net6\POS.Domain\bin\Debug\net6.0\POS.Domain.deps.json
+F:\Desarrollo\POS\POS_Net6\POS.Domain\bin\Debug\net6.0\POS.Domain.runtimeconfig.json
+F:\Desarrollo\POS\POS_Net6\POS.Domain\bin\Debug\net6.0\POS.Domain.dll
+F:\Desarrollo\POS\POS_Net6\POS.Domain\bin\Debug\net6.0\POS.Domain.pdb
+F:\Desarrollo\POS\POS_Net6\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.AssemblyReference.cache
+F:\Desarrollo\POS\POS_Net6\POS.Domain\obj\Debug\net6.0\POS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desarrollo\POS\POS_Net6\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfoInputs.cache
+F:\Desarrollo\POS\POS_Net6\POS.Domain\obj\Debug\net6.0\POS.Domain.AssemblyInfo.cs
+F:\Desarrollo\POS\POS_Net6\POS.Domain\obj\Debug\net6.0\POS.Domain.csproj.CoreCompileInputs.cache
+F:\Desarrollo\POS\POS_Net6\POS.Domain\obj\Debug\net6.0\POS.Domain.dll
+F:\Desarrollo\POS\POS_Net6\POS.Domain\obj\Debug\net6.0\refint\POS.Domain.dll
+F:\Desarrollo\POS\POS_Net6\POS.Domain\obj\Debug\net6.0\POS.Domain.pdb
+F:\Desarrollo\POS\POS_Net6\POS.Domain\obj\Debug\net6.0\POS.Domain.genruntimeconfig.cache
+F:\Desarrollo\POS\POS_Net6\POS.Domain\obj\Debug\net6.0\ref\POS.Domain.dll

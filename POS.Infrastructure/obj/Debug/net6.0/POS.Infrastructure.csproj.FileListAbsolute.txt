@@ -15,3 +15,20 @@ C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacio
 C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Infrastructure\obj\Debug\net6.0\refint\POS.Infrastructure.dll
 C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.pdb
 C:\Users\yonhatan.ramirez\OneDrive - SoftwareONE\Documents\ejerciciosProgramacion\Sistema_POS\POS\POS.Infrastructure\obj\Debug\net6.0\ref\POS.Infrastructure.dll
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.deps.json
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.dll
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\bin\Debug\net6.0\POS.Infrastructure.pdb
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\bin\Debug\net6.0\POS.Domain.dll
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\bin\Debug\net6.0\POS.Utilities.dll
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\bin\Debug\net6.0\POS.Domain.pdb
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\bin\Debug\net6.0\POS.Utilities.pdb
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.AssemblyReference.cache
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.AssemblyInfoInputs.cache
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.AssemblyInfo.cs
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.CopyComplete
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.dll
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\obj\Debug\net6.0\refint\POS.Infrastructure.dll
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.pdb
+F:\Desarrollo\POS\POS_Net6\POS.Infrastructure\obj\Debug\net6.0\ref\POS.Infrastructure.dll
