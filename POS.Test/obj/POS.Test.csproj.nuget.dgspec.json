@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Desarrollo\\POS\\POS_Net6\\POS.Test\\POS.Test.csproj": {}
+    "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Test\\POS.Test.csproj": {}
   },
   "projects": {
-    "F:\\Desarrollo\\POS\\POS_Net6\\POS.Api\\POS.Api.csproj": {
+    "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Api\\POS.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Api\\POS.Api.csproj",
+        "projectUniqueName": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Api\\POS.Api.csproj",
         "projectName": "POS.Api",
-        "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Api\\POS.Api.csproj",
-        "packagesPath": "C:\\Users\\master\\.nuget\\packages\\",
-        "outputPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Api\\obj\\",
+        "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Api\\POS.Api.csproj",
+        "packagesPath": "C:\\Users\\yonhatan.ramirez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yonhatan.ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -28,20 +28,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Desarrollo\\POS\\POS_Net6\\POS.Application\\POS.Application.csproj": {
-                "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Application\\POS.Application.csproj"
+              "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Application\\POS.Application.csproj": {
+                "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Application\\POS.Application.csproj"
               },
-              "F:\\Desarrollo\\POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj": {
-                "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj"
+              "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj"
               },
-              "F:\\Desarrollo\\POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj": {
-                "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj"
+              "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj": {
+                "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj"
               }
             }
           }
@@ -86,25 +87,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Desarrollo\\POS\\POS_Net6\\POS.Application\\POS.Application.csproj": {
+    "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Application\\POS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Application\\POS.Application.csproj",
+        "projectUniqueName": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Application\\POS.Application.csproj",
         "projectName": "POS.Application",
-        "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Application\\POS.Application.csproj",
-        "packagesPath": "C:\\Users\\master\\.nuget\\packages\\",
-        "outputPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Application\\obj\\",
+        "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Application\\POS.Application.csproj",
+        "packagesPath": "C:\\Users\\yonhatan.ramirez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yonhatan.ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -114,20 +115,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Desarrollo\\POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj": {
-                "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj"
+              "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj": {
+                "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj"
               },
-              "F:\\Desarrollo\\POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj": {
-                "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj"
+              "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj"
               },
-              "F:\\Desarrollo\\POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj": {
-                "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj"
+              "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj": {
+                "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj"
               }
             }
           }
@@ -175,25 +177,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Desarrollo\\POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj": {
+    "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj",
         "projectName": "POS.Domain",
-        "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj",
-        "packagesPath": "C:\\Users\\master\\.nuget\\packages\\",
-        "outputPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Domain\\obj\\",
+        "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj",
+        "packagesPath": "C:\\Users\\yonhatan.ramirez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yonhatan.ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -203,6 +205,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -248,25 +251,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Desarrollo\\POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj": {
+    "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj",
         "projectName": "POS.Infrastructure",
-        "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\master\\.nuget\\packages\\",
-        "outputPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Infrastructure\\POS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\yonhatan.ramirez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yonhatan.ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -276,17 +279,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Desarrollo\\POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj": {
-                "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj"
+              "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj": {
+                "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Domain\\POS.Domain.csproj"
               },
-              "F:\\Desarrollo\\POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj": {
-                "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj"
+              "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj": {
+                "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj"
               }
             }
           }
@@ -322,25 +326,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Desarrollo\\POS\\POS_Net6\\POS.Test\\POS.Test.csproj": {
+    "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Test\\POS.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Test\\POS.Test.csproj",
+        "projectUniqueName": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Test\\POS.Test.csproj",
         "projectName": "POS.Test",
-        "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Test\\POS.Test.csproj",
-        "packagesPath": "C:\\Users\\master\\.nuget\\packages\\",
-        "outputPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Test\\obj\\",
+        "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Test\\POS.Test.csproj",
+        "packagesPath": "C:\\Users\\yonhatan.ramirez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yonhatan.ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -350,14 +354,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Desarrollo\\POS\\POS_Net6\\POS.Api\\POS.Api.csproj": {
-                "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Api\\POS.Api.csproj"
+              "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Api\\POS.Api.csproj": {
+                "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Api\\POS.Api.csproj"
               }
             }
           }
@@ -405,25 +410,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Desarrollo\\POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj": {
+    "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj",
         "projectName": "POS.Utilities",
-        "projectPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj",
-        "packagesPath": "C:\\Users\\master\\.nuget\\packages\\",
-        "outputPath": "F:\\Desarrollo\\POS\\POS_Net6\\POS.Utilities\\obj\\",
+        "projectPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Utilities\\POS.Utilities.csproj",
+        "packagesPath": "C:\\Users\\yonhatan.ramirez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yonhatan.ramirez\\OneDrive - SoftwareONE\\Documents\\ejerciciosProgramacion\\Sistema_POS\\POS_Net6\\POS.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\master\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yonhatan.ramirez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -433,6 +438,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -466,7 +472,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
