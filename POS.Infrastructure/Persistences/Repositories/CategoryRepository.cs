@@ -52,8 +52,10 @@ namespace POS.Infrastructure.Persistences.Repositories
 
         public async Task<IEnumerable<Category>> ListSelectCategories()
         {
-           var categories = await _context.Categories.Where(x => x.State.Equals((int)StateTypes.Active) && x.AuditDeleteUser == null && x.AuditDeleteDate == null).AsNoTracking().ToListAsync();
-            return categories;
+           
+            var categories = await _context.Categories.Where(x => x.State.Equals((int)StateTypes.Active) && x.AuditDeleteUser == null && x.AuditDeleteDate == null).AsNoTracking().ToListAsync();
+            return categories;                   
+           
         }
 
         public async Task<Category> CategoryById(int categoryId)

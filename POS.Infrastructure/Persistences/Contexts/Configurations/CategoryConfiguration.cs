@@ -9,6 +9,7 @@ namespace POS.Infrastructure.Persistences.Contexts.Configurations
         public void Configure(EntityTypeBuilder<Category> builder)
         {
             builder.Property(e => e.Name).HasMaxLength(100);
+           
         }
     }
 }
