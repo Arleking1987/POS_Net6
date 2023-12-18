@@ -15,7 +15,8 @@ namespace POS.Application.Mappers
                 .ForMember(x => x.StateCategory, x => x.MapFrom(y => y.State.Equals((int)StateTypes.Active) ? "Activo" : "Inactivo"))
                 .ReverseMap();
 
-            CreateMap<BaseEntityResponse<Category>, BaseEntityResponse<CategoryResponseDto>>().ReverseMap();
+            CreateMap<BaseEntityResponse<Category>, BaseEntityResponse<CategoryResponseDto>>().ForMember(d => d.TotalRecords, o => o.MapFrom(c => c.TotalRecords))
+                .ForMember(d => d.Items, o => o.MapFrom(c => c.Items)).ReverseMap();
 
             CreateMap<CategoryRequestDto, Category>();
 

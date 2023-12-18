@@ -34,11 +34,20 @@ namespace POS.Application.Services
         {
             var response = new BaseResponse<BaseEntityResponse<CategoryResponseDto>>();
             var categories = await _unitOfWork.Category.ListCategories(filters);
+            List<CategoryResponseDto> categoryresponseDTO = new List<CategoryResponseDto>();
+            var baseEntity = new BaseEntityResponse<CategoryResponseDto>();
 
             if (categories is not null)
             {
+                foreach (var item in categories.Items)
+                {
+                     categoryresponseDTO.Add( _mapper.Map<CategoryResponseDto>(item));
+                } 
+                baseEntity.Items = categoryresponseDTO;
+                baseEntity.TotalRecords = categories.TotalRecords;
                 response.IsSuccess = true;
-                response.Data = _mapper.Map<BaseEntityResponse<CategoryResponseDto>>(categories);
+                response.Data = baseEntity;
+               // response.Data = _mapper.Map<BaseEntityResponse<CategoryResponseDto>>(categories);              
                 response.Message = ReplyMessage.MESSAGE_QUERY;
             }
             else

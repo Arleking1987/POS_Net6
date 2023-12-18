@@ -27,7 +27,7 @@ namespace POS.Api.Controllers
         [HttpGet("Select")]
         public async Task<IActionResult> ListSelectCategories()
         {
-            var response = _categoryApplication.ListSelectCategories();
+            var response = await _categoryApplication.ListSelectCategories();
             return Ok(response);
         }
 
